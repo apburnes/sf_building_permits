@@ -1,0 +1,23 @@
+{
+  "name": "sf_permit_parse",
+  "version": "0.0.1",
+  "description": "Parse, geocode, and serve San Francisco building permits for more accessibility",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apburnes/sf_building_permits.git"
+  },
+  "keywords": [
+    "geo",
+    "san francisco",
+    "permits"
+  ],
+  "author": "Andrew Burnes",
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.16.1"
+  }
+}
