@@ -17,7 +17,12 @@
   ],
   "author": "Andrew Burnes",
   "license": "BSD",
+  "dependencies": {
+    "mongoose": "~3.8.3",
+    "restify": "2.6.1"
+  },
   "devDependencies": {
-    "mocha": "~1.16.1"
+    "mocha": "~1.16.1",
+    "expect.js": "~0.2.0"
   }
 }
